@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MSS1976/Blog1.git/static/css/main.e9205f6c.css",
+    "main.js": "/MSS1976/Blog1.git/static/js/main.1379f882.js",
+    "index.html": "/MSS1976/Blog1.git/index.html",
+    "main.e9205f6c.css.map": "/MSS1976/Blog1.git/static/css/main.e9205f6c.css.map",
+    "main.1379f882.js.map": "/MSS1976/Blog1.git/static/js/main.1379f882.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9205f6c.css",
+    "static/js/main.1379f882.js"
+  ]
+}
